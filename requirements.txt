@@ -1,0 +1,6 @@
+streamlit==1.22.0
+matplotlib==3.6.0
+networkx==3.2.1
+numpy==1.26.1
+pandas==1.5.1
+Pillow==9.2.0
