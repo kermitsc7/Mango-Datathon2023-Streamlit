@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 from PIL import Image
-import matplotlib.pyplot as plt
+import matplotlib.pyplot
 import pickle
 import pandas as pd
 import random
